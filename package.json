@@ -1,0 +1,15 @@
+{
+  "name": "fsx-tricky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alxwrd/fsx-tricky",
+  "author": "Alex Ward",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-simconnect": "^1.3.0-canary.9"
+  },
+  "devDependencies": {
+    "deskgap": "^0.2.0"
+  }
+}
